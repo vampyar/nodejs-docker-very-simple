@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-docker-very-simple",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.14.0",
+    "express-handlebars": "~3.0.0",
+    "moment": "2.24.0"
+  }
+}
