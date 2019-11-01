@@ -34,7 +34,7 @@
 $ npm install
 ```
 
-## Running the app in ther Docker
+## Running the app in the Docker
 
 ```bash
 # development
